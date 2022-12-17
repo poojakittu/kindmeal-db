@@ -7,8 +7,9 @@
       "phone": "+91-1234666544",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily: 6:30am - 9:00pm",
-      "avtar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20348-l.jpg"
     },
     {
       "id": 2,
@@ -17,8 +18,9 @@
       "phone": "03-22723799, 03-22843799",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/28/28950-m.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24742-48128-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/28/28950-m.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24742-48128-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20346-l.jpg"
     },
     {
       "id": 3,
@@ -27,8 +29,9 @@
       "phone": "03-62778052",
       "description": " A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14169-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14169-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20341-l.jpg"
     },
     {
       "id": 4,
@@ -37,8 +40,9 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24725-48074-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24725-48074-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20351-l.jpg"
     },
     {
       "id": 5,
@@ -47,8 +51,9 @@
       "phone": "03-62778052",
       "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20350-l.jpg"
     },
     {
       "id": 6,
@@ -57,8 +62,9 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/11/11540-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24750-48146-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24750-48146-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20349-l.jpg"
     },
     {
       "id": 7,
@@ -67,8 +73,9 @@
       "phone": "03-62778052",
       "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20347-l.jpg"
     },
     {
       "id": 8,
@@ -77,8 +84,9 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24733-48106-m.jpg",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg"
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24733-48106-m.jpg",
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20345-l.jpg"
     },
     {
       "id": 9,
@@ -87,9 +95,9 @@
       "phone": "+91-1234666544",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily: 6:30am - 9:00pm",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24733-48106-m.jpg",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg"
-
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24733-48106-m.jpg",
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20342-l.jpg"
     },
     {
       "id": 10,
@@ -98,9 +106,10 @@
       "phone": "03-22723799, 03-22843799",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
-   
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20342-l.jpg"
     },
     {
       "id": 11,
@@ -109,8 +118,9 @@
       "phone": "03-62778052",
       "description": " A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20351-l.jpg"
     },
     {
       "id": 12,
@@ -119,8 +129,9 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20335-l.jpg"
     },
     {
       "id": 13,
@@ -129,8 +140,9 @@
       "phone": "03-62778052",
       "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20333-l.jpg"
     },
     {
       "id": 14,
@@ -139,8 +151,9 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20330-l.jpg"
     },
     {
       "id": 15,
@@ -149,8 +162,9 @@
       "phone": "03-62778052",
       "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg",
+      "articles": "https://www.kindmeal.my/photos/article/20/20338-l.jpg"
     },
     {
       "id": 16,
@@ -158,7 +172,8 @@
       "address": "5Unit G-8, Ground Floor, Nexus, No. 7, Jalan Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan",
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
-      "opening": "Daily 10am-10pm."
+      "opening": "Daily 10am-10pm.",
+      "articles":"https://www.kindmeal.my/photos/article/20/20330-l.jpg"
     },
     {
       "id": 17,
@@ -167,8 +182,9 @@
       "phone": "+91-1234666544",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily: 6:30am - 9:00pm",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg",
+      "articles":"https://www.kindmeal.my/photos/article/20/20333-l.jpg"
     },
     {
       "id": 18,
@@ -177,8 +193,9 @@
       "phone": "03-22723799, 03-22843799",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg",
+      "articles":"https://www.kindmeal.my/photos/article/20/20338-l.jpg"
     },
     {
       "id": 19,
@@ -186,7 +203,10 @@
       "address": "12,14,14-1, Persiaran Mergatua, Kepong Baru, Kuala Lumpur, 52100, Wilayah Persekutuan",
       "phone": "03-62778052",
       "description": " A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
-      "opening": "Daily 10am-10pm."
+      "opening": "Daily 10am-10pm.",
+      "articles":"https://www.kindmeal.my/photos/article/20/20342-l.jpg",
+      "avtar":"https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+      "foodimg":"https://www.kindmeal.my/photos/moment/24/24733-48106-m.jpg"
     },
     {
       "id": 20,
@@ -195,8 +215,9 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg",
+      "articles":"https://www.kindmeal.my/photos/article/20/20348-l.jpg"
     },
     {
       "id": 21,
@@ -205,8 +226,9 @@
       "phone": "03-62778052",
       "description": "A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg",
+      "articles":"https://www.kindmeal.my/photos/article/20/20350-l.jpg"
     },
     {
       "id": 22,
@@ -231,8 +253,8 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
     },
     {
       "id": 25,
@@ -241,8 +263,8 @@
       "phone": "+91-1234666544",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily: 6:30am - 9:00pm",
-      "avtar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24747-48140-m.jpg"
     },
     {
       "id": 26,
@@ -259,8 +281,8 @@
       "phone": "03-62778052",
       "description": " A refreshing Meatless Dining Concept from Secret Recipe Cakes & Café Group. Extensive Menu range inspired by all fresh and natural products with a selection of natural products and ingredi…",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24727-48080-m.jpg"
     },
     {
       "id": 28,
@@ -269,8 +291,8 @@
       "phone": "03-62778052",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
       "opening": "Daily 10am-10pm.",
-      "avtar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
-      "foodimg":"https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
+      "avtar": "https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+      "foodimg": "https://www.kindmeal.my/photos/moment/24/24734-48108-m.jpg"
     }
   ],
   "comments": [
