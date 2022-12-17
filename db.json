@@ -6,7 +6,8 @@
       "address": "Level 14 West, Berjaya Times Square Hotel, No. 1, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan ",
       "phone": "+91-1234666544",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
-      "opening": "Daily: 6:30am - 9:00pm"
+      "opening": "Daily: 6:30am - 9:00pm",
+      "avtar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "address": "114-116, Jalan Berhala, Brickfields, Kuala Lumpur, 50470, Wilayah Persekutuan ",
       "phone": "03-22723799, 03-22843799",
       "description": "Berjaya Cafe, the epitome for the vegetarian lovers that brings the opulence, style, and is entwined with the gastronomic taste from the best chef’s in town. With the current trend of life",
-      "opening": "Tue-Sun 11am-3pm, 6:30-10pm."
+      "opening": "Tue-Sun 11am-3pm, 6:30-10pm.",
+      "avtar":"https://www.kindmeal.my/photos/member/28/28950-m.jpg"
     },
     {
       "id": 3,
